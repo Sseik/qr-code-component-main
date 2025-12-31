@@ -57,3 +57,9 @@ footer {
   width: 100%;
   text-align: center;
 }
+
+.screen-reader-only {
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
