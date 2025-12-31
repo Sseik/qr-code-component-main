@@ -1,0 +1,55 @@
+@import "./reset.css";
+
+body {
+  min-height: 100vh;
+  --15px: 0.9375rem;
+  font-family: "Outfit", sans-serif;
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.card {
+  margin: auto;
+  width: max(20vw, 360px);
+  background-color: white;
+  padding: 16px 16px 48px 16px;
+  border-radius: 24px;
+  text-align: center;
+}
+
+img {
+  border-radius: 16px;
+  margin-bottom: 1.5rem;
+}
+
+h2 {
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  margin-bottom: 1.5rem;
+}
+
+p {
+  font-size: var(--15px);
+  font-weight: 400;
+  color: grey;
+  letter-spacing: 0.2px;
+  margin: 0 32px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
