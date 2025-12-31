@@ -44,4 +44,4 @@ After doing this project I decided to practice creating web pages looking as clo
 ## Author
 
 - LinkedIn - [Dmytro Hapchyn](https://www.linkedin.com/in/dmytro-hapchyn-974b5b303/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Sseik](https://www.frontendmentor.io/profile/Sseik)
